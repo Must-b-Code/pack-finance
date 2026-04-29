@@ -1,0 +1,28 @@
+{
+  "name": "@must-b/pack-finance",
+  "version": "1.0.0",
+  "description": "Must-b Finance Pack — Trading signals, MetaTrader bridge, and financial data integrations (placeholder for upcoming trading extensions)",
+  "license": "UNLICENSED",
+  "author": "Must-b Inc.",
+  "homepage": "https://must-b.com",
+  "keywords": [
+    "must-b",
+    "extension-pack",
+    "finance",
+    "trading",
+    "finance",
+    "metatrader",
+    "forex",
+    "crypto"
+  ],
+  "main": "index.cjs",
+  "must-b": {
+    "pack": "finance",
+    "extensions": [],
+    "allExtensions": []
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
